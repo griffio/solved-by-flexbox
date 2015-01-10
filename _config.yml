@@ -6,7 +6,7 @@ port: 80
 url: //philipwalton.github.io/solved-by-flexbox
 
 markdown: rdiscount
-pygments: true
+highlighter: rouge
 
 exclude:
 - config.rb
